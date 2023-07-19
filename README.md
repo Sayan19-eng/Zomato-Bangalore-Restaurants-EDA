@@ -1,7 +1,7 @@
 # Zomato-Bangalore-Restaurants-EDA
 # Ask and Answer Questions
-*Which location have most and least number of restaurants?
-*Which location have most number of customers in Blr?
+*Which location have most and least number of restaurants?*
+*Which location have most number of customers in Blr?*
 Which is cuisine is widely available?
 How many restaurants allow table booking option in Bengaluru?
 How many restaurants accept online orders in Bengaluru?
