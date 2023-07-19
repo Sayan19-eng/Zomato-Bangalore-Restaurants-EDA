@@ -2,10 +2,8 @@
 # Ask and Answer Questions
 
 - Which location have most and least number of restaurants?
-
 - Which location have most number of customers in Blr?
-
-**Which is cuisine is widely available?**
+- Which is cuisine is widely available?
 How many restaurants allow table booking option in Bengaluru?
 How many restaurants accept online orders in Bengaluru?
 Which area have most number of highest rated restaurants?
